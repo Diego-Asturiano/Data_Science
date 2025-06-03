@@ -1,0 +1,1 @@
+In this project I analyze the performance of students on a dataset using machine learning models such as regression tree, random forest algorithm and XGBoost taking Exam_Score as dependent variable and compare the accuracy of the results of each algorithm.
