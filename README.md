@@ -1,1 +1,1 @@
-In this repository you will find data science and machine learning projects where algorithms from both supervized and non-supervized models were applied.
+This repository contains data science projects where different algorithms for machine learning of supervised and non-supervised models are implemented.
