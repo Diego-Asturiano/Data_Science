@@ -1,0 +1,1 @@
+In this project, I analyzed student performance using a structured dataset and applied various machine learning models—including Regression Trees, Random Forest, and XGBoost—to predict exam scores as the target variable. I assessed and compared the predictive accuracy of each algorithm using evaluation metrics such as R², RMSE, and MAE.
