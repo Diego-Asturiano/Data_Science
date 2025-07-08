@@ -1,1 +1,1 @@
-
+This project will segment customers of an online store according to their buying behavior in order to customize marketing strategies, optimize campaigns and increase retention through clustering with K-Means and RFM analysis
