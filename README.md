@@ -1,1 +1,1 @@
-This repository contains data science projects where different algorithms for machine learning of supervised and non-supervised models are implemented.
+This repository contains a collection of data science projects that implement various machine learning algorithms, including both supervised and unsupervised models. Each project includes data preparation, exploratory data analysis (EDA), model training, evaluation, and result visualization using standard data science tools and techniques.
