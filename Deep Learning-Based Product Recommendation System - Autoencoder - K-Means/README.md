@@ -1,0 +1,1 @@
+A content-based product recommendation system that uses deep learning (autoencoders) to find similar items based on category, price, and rating. Designed for cold-start scenarios where no user data is available, with PCA visualization and cluster validation using K-Means.
