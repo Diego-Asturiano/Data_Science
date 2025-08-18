@@ -60,10 +60,10 @@ Every project follows a structured process:
 ## 🌟 Purpose & Vision
 
 This repository is designed to showcase my **Data Science expertise**:  
-✅ Building ML models  
-✅ Extracting insights from data  
-✅ Designing end-to-end pipelines  
-✅ Solving real-world business problems with data  
+- Building ML models  
+- Extracting insights from data  
+- Designing end-to-end pipelines  
+- Solving real-world business problems with data  
 
 ---
 
