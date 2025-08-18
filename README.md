@@ -69,4 +69,4 @@ This repository is designed to showcase my **Data Science expertise**:
 
 ## 📬 Get in Touch  
 
-📎 Connect with me on **[LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/diego-asturiano-calva-098943329/))** to see more projects or discuss data-driven solutions.  
+📎 Connect with me on **[LinkedIn](https://www.linkedin.com/in/diego-asturiano-calva-098943329/)** to see more projects or discuss data-driven solutions.  
