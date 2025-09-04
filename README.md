@@ -10,6 +10,10 @@ This repository is my portfolio to demonstrate skills in **exploratory analysis,
 
 Here you’ll find different projects, each focused on a unique aspect of data science:
 
+- 🤖 **LLM-Based Chatbot for Google Play Apps**
+  - Techniques: Retrieval-Augmented Generation (RAG), LangChain, FAISS, HuggingFace Embeddings
+  - Goal: Build an intelligent chatbot capable of answering natural language questions about Google Play applications, providing insights on rankings, categories, ratings, popularity, and user trends by combining semantic search with LLM responses.
+
 - 🔍 **Credit Card Fraud Detection**  
   - Algorithms: Isolation Forest, XGBoost, Random Forest  
   - Goal: Detect fraudulent transactions using anomaly detection and supervised learning.
